@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I bonjour tout le monde
 
 trollllllllllllllolololololololololololololololololololololololololololoolololololololololololololololololololololololololll
 >>>>>>> 5d482bd8fc898bee157a1ff81664528b3d869a7c
+=======
+trollllllllllllllolololololololololololololololololololololololololololoolololololololololololololololololololololololololll
+
+bouh frf
+>>>>>>> a70dad53fa7a3ee5d9b4d721db3dcd58c44a522d
